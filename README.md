@@ -10,6 +10,5 @@ Employee resource is exposed with the following endpoints ..<br/><br/>
 <b>5</b>- /employees/{id}    - PUT -  Request to Update a specific employee .<br/>
 <b>6</b>- /employees/{id}    - DELETE- Request to Delete a specific employee according to employeeID .<br/>
 
-
-
+Swagger URL - http://localhost:8080/swagger-ui.html#/employee-controller
 
